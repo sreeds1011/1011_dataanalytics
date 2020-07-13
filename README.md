@@ -5,7 +5,7 @@
 Week#3 Goals
 
 Here is the Task for Week 3:
-  1. Do Analysis on the preprocessed Data.
+- Do Analysis on the preprocessed Data.
 
 Here are the points about how Analysis should be done:
 - Distribution of Users(device_id) across States.
